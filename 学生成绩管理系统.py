@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter import simpledialog
 import json
-
+#做个测试
 #定义学生类
 class student:
     def __init__(self,name,score,stnum):
